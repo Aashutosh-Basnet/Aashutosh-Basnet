@@ -6,7 +6,7 @@
 
 I am a computer science student pursuing my cs degree in Bhaktapur Multiple Campus. I aspire to be a great programmer.
 
-| <img src="./logos/skills.jpg" height="50" alt="Languages and Tools"> | ### Languages and Tools |
+| <img src="./logos/skills.jpg" height="50" | ### Languages and Tools |
 |---|---|
 
 
