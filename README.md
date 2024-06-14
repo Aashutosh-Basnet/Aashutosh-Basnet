@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Aashutosh Basnet</h1>
+**'Computer Science student / ... '**
 
-<!--
-**Aashutosh-Basnet/Aashutosh-Basnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" fill="black"/>
+  <text x="100" y="35" font-size="30" text-anchor="middle" fill="white">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0s" repeatCount="indefinite" />
+  I am a computer science student pursuing my cs degree in Bhaktapur Multiple Campus. I aspire to be a great programmer.
+  </text>
+</svg>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
