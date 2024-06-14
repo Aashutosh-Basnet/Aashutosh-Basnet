@@ -6,8 +6,16 @@
 
 I am a computer science student pursuing my cs degree in Bhaktapur Multiple Campus. I aspire to be a great programmer.
 
-| <img src="./logos/skills.jpg" height="50" | ### Languages and Tools |
-|---|---|
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="./logos/skills.jpg" height="50" alt="Languages and Tools">
+    </td>
+    <td style="border: none;">
+      <h3>Languages and Tools</h3>
+    </td>
+  </tr>
+</table>
 
 
 
