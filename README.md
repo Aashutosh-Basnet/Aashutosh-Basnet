@@ -1,5 +1,6 @@
-<h1>Aashutosh Basnet</h1>
-**'Computer Science student / ... '**
+# Aashutosh Basnet
+
+**`Computer Science student / ... `**
 
 <svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
   <rect width="200" height="60" fill="black"/>
