@@ -6,7 +6,7 @@
 
 I am a computer science student pursuing my cs degree in Bhaktapur Multiple Campus. I aspire to be a great programmer.
 
-<img src = "./logos/skills.jpeg" height "45" /> <h3>Languages and Tools</h3>
+<img src="./logos/skills.jpg" height="45" /> <h3>Languages and Tools</h3>
 
 <p float="left">
   <img src="./logos/HTML5.svg" height="50" />&nbsp;
