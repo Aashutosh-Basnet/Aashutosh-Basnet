@@ -6,10 +6,8 @@
 
 I am a computer science student pursuing my cs degree in Bhaktapur Multiple Campus. I aspire to be a great programmer.
 
-<div style="display: flex; align-items: center;">
-  <img src="./logos/skills.jpg" height="50" />
-  <h3 style="margin: 0;">Languages and Tools</h3>
-</div>
+| ![Languages and Tools](./logos/skills.jpg "Languages and Tools") | ### Languages and Tools |
+|---|---|
 
 
 <p float="left">
