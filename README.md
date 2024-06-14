@@ -11,7 +11,7 @@ I am a computer science student pursuing my cs degree in Bhaktapur Multiple Camp
 <p float="left">
   <img src="./logos/HTML5.svg" height="50" />
   <img src="./logos/css3.svg" height="50" /> 
-  <img src="./logos/javascript.png" height="50" />
+  <img src="./logos/JavaScript.png" height="50" />
   <img src="./logos/react.png" height="50" />
   <img src="./logos/python.png" height="50" />
   <img src="./logos/cpp.png" height="50" />
