@@ -4,7 +4,7 @@
 
 ![Text Animation](./text.gif)
 
-I am a computer science student pursuing my cs degree in Bhaktapur Multiple Campus. I aspire to be a great programmer.
+I am a computer science student pursuing my cs degree in BMC. I aspire to be a great programmer.
 
 | <img src="./logos/skills.jpg" height="50" > | Languages and Tools |
 |---|---|
