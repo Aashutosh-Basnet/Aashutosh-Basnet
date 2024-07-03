@@ -2,7 +2,6 @@
 
 **`Computer Science student / ... `**
 
-/*![Text Animation](./text.gif)*/
 
 I am a computer science student pursuing my cs degree in BMC. I aspire to be a great programmer.
 
