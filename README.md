@@ -18,6 +18,7 @@ I am a computer science student pursuing my cs degree in BMC. I aspire to be a g
   <img src="./logos/react.png" height="50"  />&nbsp;
   <img src="./logos/python.png" height="50" /> &nbsp;
   <img src="./logos/cpp.png" height="50" />&nbsp;
+  <img src="./logos/nextjslogo.png" height="50" />&nbsp;
 </p>
 
 
