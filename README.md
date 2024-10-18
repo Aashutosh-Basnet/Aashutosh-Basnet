@@ -3,7 +3,7 @@
 **`Computer Science student / ... `**
 
 
-I am a computer science student pursuing my cs degree in BMC. I aspire to be a great programmer.
+I am a computer science student pursuing my cs degree in BMC.
 
 | <img src="./logos/skills.jpg" height="50" > | Languages and Tools |
 |---|---|
