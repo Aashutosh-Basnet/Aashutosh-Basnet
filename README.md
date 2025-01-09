@@ -17,6 +17,7 @@ I am a computer science student pursuing my cs degree in BMC.
   <img src="./logos/cpp.png" height="50" />&nbsp;
   <img src="./logos/nextjslogo.png" height="50" />&nbsp;
   <img src="./logos/selenium.png" height="50" />&nbsp;
+  <img src="./logos/express.png" height="50" />&nbsp;
   
 </p>
 
